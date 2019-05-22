@@ -1,0 +1,41 @@
+Name: Mukund Murrali
+USC ID: 1264824477
+News site crawled: reuters.com
+
+Fetch Statistics
+=====================
+# fetches attempted: 19959
+# fetched succeeded: 16335
+# fetched failed or aborted: 3624
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 916979
+# unique URLs extracted: 97016
+# unique URLs within News Site: 65645
+# unique URLs outside News Site: 31371
+
+Status Codes:
+=====================
+404 Not Found: 27
+500 Internal Server Error: 3
+200 OK: 16335
+301 Moved Permanently: 3585
+302 Found: 9
+
+File Sizes:
+=====================
+< 1KB: 7
+1KB ~ <10KB: 1278
+10KB ~ <100KB: 1059
+100KB ~ <1MB: 13991
+>= 1MB: 0
+
+Content Types:
+=====================
+image/png: 763
+text/html: 13326
+image/jpeg: 2229
+application/pdf: 2
+image/gif: 15
+
